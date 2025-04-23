@@ -59,8 +59,8 @@ jobs:
         run: pipenv run dev
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "1757580896@qq.com"
+          git config --local user.name "1757580896"
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
