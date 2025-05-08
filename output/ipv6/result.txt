@@ -83,4 +83,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-05-08 18:36:31,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2025-05-09 06:32:56,https://event.pull.hebtv.com/jishi/cp1.m3u8
