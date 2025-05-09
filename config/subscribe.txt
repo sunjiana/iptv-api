@@ -2,3 +2,4 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://cdn.jsdelivr.net/gh/my-tv1/collect-tv-txt@main/assets/special/special.txt
+https://raw.githubusercontent.com/sunjiana/tvlist/main/iptv.txt
