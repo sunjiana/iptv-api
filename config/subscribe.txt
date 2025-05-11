@@ -1,5 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://cdn.jsdelivr.net/gh/my-tv1/collect-tv-txt@main/assets/special/special.txt
-https://raw.githubusercontent.com/sunjiana/tvlist/main/iptv.txt
+https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
+https://raw.githubusercontent.com/1757580896/ziyong/main/ziyong.txt
