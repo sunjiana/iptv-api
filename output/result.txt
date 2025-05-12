@@ -1,4 +1,8 @@
+,#genre#
+
 📺央视频道,#genre#
+CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
@@ -41,18 +45,8 @@ CCTV-17,http://39.134.65.175/PLTV/88888888/224/3221225708/1.m3u8
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -130,4 +124,4 @@ CCTV-15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-05-12 06:30:11,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+2025-05-12 18:34:34,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
