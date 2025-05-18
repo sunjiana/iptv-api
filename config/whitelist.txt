@@ -4,6 +4,7 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://raw.githubusercontent.com/1757580896/ziyong/main/cc%E5%AE%8C%E6%88%90.txt
 https://raw.githubusercontent.com/1757580896/shaixuan/main/result.m3u
+https://raw.githubusercontent.com/1757580896/ivp3/main/result.m3u
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://tv.iill.top/m3u/Gather
