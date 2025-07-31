@@ -157,5 +157,5 @@ http://139.196.214.238/rtp/239.45.3.118:5140
 http://139.196.214.238/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://139.196.214.238/rtp/239.45.1.200:5140
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/# 测试用频道列表.png" group-title="🕘️更新时间",2025-07-31 18:36:01
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/# 测试用频道列表.png" group-title="🕘️更新时间",2025-08-01 06:34:08
 http://139.196.214.238/rtp/239.45.3.145:5140
