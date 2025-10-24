@@ -81,4 +81,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-10-24 18:35:23,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+2025-10-25 06:33:12,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
